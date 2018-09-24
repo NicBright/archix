@@ -1,3 +1,10 @@
+Hi Mirko
+
+... leider habe ich ausser diesem PR keine andere Möglichkeit gefunden, mit dir in Kontakt zu treten. Ist mal was anderes ;-) ... arbeitest du noch im MMZ? Oder in Bern? Falls letzteres, hast du Lust dich einmal mit mir zu Mittag zu verabreden? Wir haben uns ja schon ewig nicht mehr gesehen :-) 
+
+Viele Grüsse
+Nicolas
+
 # archix
 Quick Software Architecture Diagrams
 
